@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  font-size: 40px
+  font-family: Arial;
+}
+
+h2 {
+  color: black;
+  font-size: 30px
+  font-family: Arial;
+}
+
+body {
+  color: #990000;
+  background_color: #ffe6e6;
+  font-family: Arial, sans-serif;
+}
+
